@@ -1,6 +1,6 @@
 # lr
 
-Linear Regression in Rust
+Linear Regression From Scratch in Rust
 
 ## Dependencies
 
